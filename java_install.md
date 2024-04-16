@@ -73,4 +73,8 @@ https://www.eclipse.org/downloads/
 
 <img width="371" alt="스크린샷 2024-04-16 140308" src="https://github.com/dawoon1229/Java_practice/assets/164113758/09fb21dd-310b-44a4-afb5-32996ed4d5c8">
 
+[Eclipse] - [Window] - [Preferences] 클릭
+
 <img width="516" alt="스크린샷 2024-04-16 140325" src="https://github.com/dawoon1229/Java_practice/assets/164113758/40bf3870-3123-4a05-b50d-e27537e9a83c">
+
+[General] - [Appearance] - [Theme] - 원하는거 선택
